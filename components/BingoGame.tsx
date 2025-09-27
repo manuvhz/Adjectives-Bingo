@@ -89,7 +89,7 @@ const BingoGame: React.FC<BingoGameProps> = ({ onGenerateCardClick }) => {
       <div className="relative z-10 flex flex-col items-center justify-center h-full">
         <header className="text-center mb-2 sm:mb-4">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-sky-400">
-            Ciclo IV – Adjectives Bingo
+            Verbs Bingo
           </h1>
           <p className="mt-1 sm:mt-2 text-sky-200/80 text-base sm:text-lg">Words remaining: {remainingWordsCount}</p>
         </header>
